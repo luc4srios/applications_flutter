@@ -1,0 +1,5 @@
+1. >> Escolher alguma das cores na palheta
+2. >> Será alterado a cor do nome para a cor escolhida
+3. >> Fechar o app
+4. >> Abrir novamente o app 
+5. >> Estará com a última cor escolhida, pois foi guardada no Shared preferences
