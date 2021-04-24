@@ -20,7 +20,7 @@ class ResultPage extends StatelessWidget {
     return Scaffold(
       body: Container(
         width: double.maxFinite,
-        padding: EdgeInsets.only(top: 100),
+        padding: EdgeInsets.only(top: 50),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           crossAxisAlignment: CrossAxisAlignment.center,
